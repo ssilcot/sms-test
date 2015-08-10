@@ -1,4 +1,4 @@
-# sms-test --- back on smsdev (+master) branch.
+# sms-test --- back on master branch only
 
 (5) local: git checkout smsdev; deleted all other branches bar master; git push --all -v
 
