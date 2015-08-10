@@ -1,4 +1,6 @@
-# sms-test --- this is on dev2 branch.
+# sms-test --- this is on smsdev branch.
+
+(4) local: git commit -d smsdev, gcommit, gpush-newb (git push --all -v)
 
 (3) local: git checkout -d dev2 (new branch), gcommit, push-do
 
