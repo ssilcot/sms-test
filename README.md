@@ -1,4 +1,4 @@
-# sms-test --- this is on dev branch.
+# sms-test --- this is on master branch.
 
 (2) Notes: updated master, deleted dev branch
  * local: checkout master
