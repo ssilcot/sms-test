@@ -1,6 +1,7 @@
-# sms-test --- back on master branch.
+# sms-test --- back on smsdev (+master) branch.
 
-(5) local: git checkout master; deleted all other branches; git push --all -v
+(5) local: git checkout smsdev; deleted all other branches bar master; git push --all -v
+
 (4) local: git commit -d smsdev, gcommit, gpush-newb (git push --all -v)
 
 (3) local: git checkout -d dev2 (new branch), gcommit, push-do
